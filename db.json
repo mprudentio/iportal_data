@@ -1,0 +1,75 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+            "name":"Ahmad Fadil",
+            "premi":500000
+        },
+        "geometry": {
+          "coordinates": [
+            106.83026718018493,
+            -6.20839402128253
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name":"Siti Aisyah",
+            "premi": 2750000
+        },
+        "geometry": {
+          "coordinates": [
+            106.76322731060031,
+            -6.209747251818044
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Budi Santoso",
+            "premi": 6200000
+        },
+        "geometry": {
+          "coordinates": [
+            106.90921768649895,
+            -6.209747251818044
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Rina Fitriani",
+            "premi": 1150000
+        },
+        "geometry": {
+          "coordinates": [
+            106.73804482151803,
+            -6.146141670260562
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name":"Rizky Pratama",
+            "premi":8500000
+        },
+        "geometry": {
+          "coordinates": [
+            106.90955799040535,
+            -6.147833406845308
+          ],
+          "type": "Point"
+        }
+      }
+    ]
+  }
